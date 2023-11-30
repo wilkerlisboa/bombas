@@ -1,3 +1,5 @@
+
+![image 23](https://github.com/wilkerlisboa/bombas/assets/73085812/6378c3b9-b6fd-4f3d-ba12-0c5a36e7d286)
 <h1 align="center">Jogo de Bombas</h1>
 Este repositório contém um simples jogo de bombas desenvolvido em Python com a biblioteca Pygame. O jogo apresenta um menu inicial com opções para "iniciar um novo jogo" ou "sair do aplicativo". Durante o jogo, o jogador controla um personagem que deve desviar de bombas em queda. Se houver uma colisão, uma animação de explosão é exibida, e o jogador é levado de volta ao menu inicial.
 <h2>Instruções de Instalação:</h2>
