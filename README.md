@@ -42,6 +42,6 @@ Este jogo é distribuído sob a licença MIT. Consulte o arquivo LICENSE para ob
 <h3>Agradecimentos:</h3>
 Agradecemos à comunidade Pygame por fornecer uma biblioteca poderosa para o desenvolvimento de jogos em Python. Para obter mais informações e contribuir, visite https://www.pygame.org/contribute.html.<br>
 
-Divirta-se jogando!
+Divirta-se jogando!!
 
 
